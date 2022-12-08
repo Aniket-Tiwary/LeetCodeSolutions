@@ -2,7 +2,7 @@ package leetcode75challenge;
 
 public class LeetCode392 {
 
-    private static boolean isIsomorphic(String s, String t) {
+    private static boolean isSubsequence(String s, String t) {
         if(s.equals(""))
             return true;
         if(s.length() > t.length())
@@ -21,7 +21,7 @@ public class LeetCode392 {
     public static void main(String args[]){
         String s = "abc";
         String t = "axbvfgc";
-        System.out.println("Are the strings Isomorphic : " + isIsomorphic(s,t));
+        System.out.println("Are the strings Isomorphic : " + isSubsequence(s,t));
     }
 
 }
