@@ -13,4 +13,4 @@ Solution of Leetcode Problems and some standard leetcode challenges.
 
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
-    2. LeetCode 938 - Range Sum of BST
+    2. LeetCode 938 - Range Sum of BST.
