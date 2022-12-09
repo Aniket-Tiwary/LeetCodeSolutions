@@ -7,3 +7,4 @@ out/production/GithHub/dataStructures/TreeNode.class
 out/production/GithHub/leetcode75challenge/LeetCode1480.class
 out/production/GithHub/leetcode75challenge/LeetCode205.class
 *.class
+*.xml
