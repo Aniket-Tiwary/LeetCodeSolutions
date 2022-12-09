@@ -1,7 +1,7 @@
 # LeetCodeSolutions
 Solution of Leetcode Problems and some standard leetcode challenges.
 
-## Total Problems solutions added : 6
+## Total Problems solutions added : 7
 
 ## Challenges solved 
 ### LeetCode 75
@@ -14,3 +14,4 @@ Solution of Leetcode Problems and some standard leetcode challenges.
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
     2. LeetCode 938 - Range Sum of BST.
+    3. LeetCode 1026 - Maximum Difference Between Node and Ancestor
