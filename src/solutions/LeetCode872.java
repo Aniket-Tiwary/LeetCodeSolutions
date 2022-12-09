@@ -28,8 +28,8 @@ public class LeetCode872 {
     }
 
     public static void main(String args[]){
-        TreeNode root1 = TreeNode.createTree(new int[]{3,5,1,6,2,9,8,7,4});
-        TreeNode root2 = TreeNode.createTree(new int[]{3,5,1,6,7,4,2,9,8});
+        TreeNode root1 = TreeNode.createBST(new int[]{3,5,1,6,2,9,8,7,4});
+        TreeNode root2 = TreeNode.createBST(new int[]{3,5,1,6,7,4,2,9,8});
         System.out.println("Are trees leafSimilar : " + leafSimilar(root1,root2));
 
     }

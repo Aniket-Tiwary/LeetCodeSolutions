@@ -18,7 +18,7 @@ public class LeetCode938 {
     }
 
     public static void main(String args[]){
-        TreeNode root = TreeNode.createTree(new int[] {10,5,15,3,7,18,14});
+        TreeNode root = TreeNode.createBST(new int[] {10,5,15,3,7,18,14});
         TreeNode.printTree(root);
         System.out.println();
         System.out.println("Result : " + rangeSumBST(root,7,15));
