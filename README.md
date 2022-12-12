@@ -1,7 +1,7 @@
 # LeetCodeSolutions
 Solution of Leetcode Problems and some standard leetcode challenges.
 
-## Total Problems solutions added : 13
+## Total Problems solutions added : 16
 
 ## Challenges solved 
 ### LeetCode 75
