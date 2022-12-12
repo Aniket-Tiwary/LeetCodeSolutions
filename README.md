@@ -1,7 +1,7 @@
 # LeetCodeSolutions
 Solution of Leetcode Problems and some standard leetcode challenges.
 
-## Total Problems solutions added : 9
+## Total Problems solutions added : 13
 
 ## Challenges solved 
 ### LeetCode 75
@@ -12,6 +12,10 @@ Solution of Leetcode Problems and some standard leetcode challenges.
     4. LeetCode 392 - Is Subsequence.
     5. LeetCode 21 - Merge Two Sorted Lists.
     6. LeetCode 206 - Reverse Linked List.
+    7. LeetCode 876 - Middle of the Linked List.
+    8. LeetCode 142 - Linked List Cycle II.
+    9. LeetCode 121 - Best Time to Buy and Sell Stock.
+    10. LeetCode 409 - Longest Palindrome.
 
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
