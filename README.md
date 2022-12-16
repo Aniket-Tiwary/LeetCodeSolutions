@@ -1,7 +1,7 @@
 # LeetCodeSolutions
 Solution of Leetcode Problems and some standard leetcode challenges.
 
-## Total Problems solutions added : 16
+## Total Problems solutions added : 22
 
 ## Challenges solved 
 ### LeetCode 75
@@ -18,9 +18,15 @@ Solution of Leetcode Problems and some standard leetcode challenges.
     10. LeetCode 409 - Longest Palindrome.
     11. LeetCode 589 - N-ary Tree Preorder Traversal.
     12. LeetCode 102 - Binary Tree Level Order Traversal.
+    13. LeetCode 98 - Validate Binary Search Tree
+    14. LeetCode 235 - Lowest Common Ancestor of a Binary Search Tree
+    15. LeetCode 733 - Flood Fill
+    16. LeetCode 200 - Number of Islands
 
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
     2. LeetCode 938 - Range Sum of BST.
     3. LeetCode 1026 - Maximum Difference Between Node and Ancestor.
     4. LeetCode 70 - Climbing stairs.
+    5. LeeCode 198 - House Robber
+    6. LeetCode 1143 - Longest Common Subsequence
