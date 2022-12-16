@@ -22,6 +22,8 @@ Solution of Leetcode Problems and some standard leetcode challenges.
     14. LeetCode 235 - Lowest Common Ancestor of a Binary Search Tree
     15. LeetCode 733 - Flood Fill
     16. LeetCode 200 - Number of Islands
+    17. LeetCode 509 - Fibonacci Number
+    18. LeetCode 70 - Climbing Stairs
 
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
@@ -30,3 +32,5 @@ Solution of Leetcode Problems and some standard leetcode challenges.
     4. LeetCode 70 - Climbing stairs.
     5. LeeCode 198 - House Robber
     6. LeetCode 1143 - Longest Common Subsequence
+    7. LeetCode 232 - Implement Queue using Stacks
+    
