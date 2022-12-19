@@ -18,19 +18,22 @@ Solution of Leetcode Problems and some standard leetcode challenges.
     10. LeetCode 409 - Longest Palindrome.
     11. LeetCode 589 - N-ary Tree Preorder Traversal.
     12. LeetCode 102 - Binary Tree Level Order Traversal.
-    13. LeetCode 98 - Validate Binary Search Tree
-    14. LeetCode 235 - Lowest Common Ancestor of a Binary Search Tree
-    15. LeetCode 733 - Flood Fill
-    16. LeetCode 200 - Number of Islands
-    17. LeetCode 509 - Fibonacci Number
-    18. LeetCode 70 - Climbing Stairs
+    13. LeetCode 98 - Validate Binary Search Tree.
+    14. LeetCode 235 - Lowest Common Ancestor of a Binary Search Tree.
+    15. LeetCode 733 - Flood Fill.
+    16. LeetCode 200 - Number of Islands.
+    17. LeetCode 509 - Fibonacci Number.
+    18. LeetCode 70 - Climbing Stairs.
+    19. LeetCode 1 - Two Sum.
+    20. LeetCode 299 - Bulls and Cows.
 
 ## Miscellaneous Problems List :
     1. LeetCode 872 - Leaf Similar Trees.
     2. LeetCode 938 - Range Sum of BST.
     3. LeetCode 1026 - Maximum Difference Between Node and Ancestor.
     4. LeetCode 70 - Climbing stairs.
-    5. LeeCode 198 - House Robber
-    6. LeetCode 1143 - Longest Common Subsequence
-    7. LeetCode 232 - Implement Queue using Stacks
+    5. LeeCode 198 - House Robber.
+    6. LeetCode 1143 - Longest Common Subsequence.
+    7. LeetCode 232 - Implement Queue using Stacks.
+    8. LeetCode 1971 - Find if Path Exists in Graph.
     
